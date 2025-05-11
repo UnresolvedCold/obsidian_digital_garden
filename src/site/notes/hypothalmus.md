@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hypothalmus/"}
+{"dg-publish":true,"permalink":"/hypothalmus/","tags":["compilation"]}
 ---
 
 It is the means by which [[limbic system\|limbic system]] influences [[autonomic functions\|autonomic functions]].  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autonomic-functions/"}
+{"dg-publish":true,"permalink":"/autonomic-functions/","tags":["compilation"]}
 ---
 
 

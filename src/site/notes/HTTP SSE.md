@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/http-sse/"}
+{"dg-publish":true,"permalink":"/http-sse/","tags":["compilation"]}
 ---
 
 

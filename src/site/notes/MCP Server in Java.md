@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/mcp-server-in-java/"}
+{"dg-publish":true,"permalink":"/mcp-server-in-java/","tags":["compilation"]}
 ---
 

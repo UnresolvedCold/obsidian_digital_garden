@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cortex/"}
+{"dg-publish":true,"permalink":"/cortex/","tags":["compilation"]}
 ---
 
 Analytical part of brain. 

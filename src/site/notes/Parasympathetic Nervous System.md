@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parasympathetic-nervous-system/"}
+{"dg-publish":true,"permalink":"/parasympathetic-nervous-system/","tags":["compilation"]}
 ---
 
 Calm vegetative state 

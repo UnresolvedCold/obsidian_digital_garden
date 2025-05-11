@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/limbic-system/"}
+{"dg-publish":true,"permalink":"/limbic-system/","tags":["compilation"]}
 ---
 
 It's all about emotions.

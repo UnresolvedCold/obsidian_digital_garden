@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sympathetic-nervous-system/"}
+{"dg-publish":true,"permalink":"/sympathetic-nervous-system/","tags":["compilation"]}
 ---
 
 SNS

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/combine-all-the-commits-as-one/"}
+{"dg-publish":true,"permalink":"/combine-all-the-commits-as-one/","tags":["insight"]}
 ---
 
 #git #insight 

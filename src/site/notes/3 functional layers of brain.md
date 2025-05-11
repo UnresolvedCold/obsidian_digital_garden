@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-functional-layers-of-brain/"}
+{"dg-publish":true,"permalink":"/3-functional-layers-of-brain/","tags":["compilation"]}
 ---
 
 These are not literal separation. But functionally you can divide the brain into 3 layers. 
