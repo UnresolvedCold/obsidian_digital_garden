@@ -20,6 +20,12 @@ This isn’t a traditional blog. It’s more like a working knowledge base: a hy
 
 I write with the mindset that **"thinking in public"** is the best way to sharpen ideas. Some of these thoughts may eventually be polished into long-form essays or tutorials over at [shubham.codes](https://shubham.codes/), but many will remain here in their raw, iterative form - and that’s by design.
 
+The notes tagged with #source are the raw form of content, these include book highlights, direct information from lectures or copy pastes from other blogs or websites.
+
+The notes tagged with #compilation is what I was able to collect from different #source. It's basically a compilation of different knowledges. 
+
+The notes tagged with #insight is how I was able to use this information to solve my use case. These are more specific form of content. 
+
 ---
 
 ### 🧭 Why a Digital Garden?

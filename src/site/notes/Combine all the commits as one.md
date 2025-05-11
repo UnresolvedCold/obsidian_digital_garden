@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/combine-all-the-commits-as-one/"}
 ---
 
+#git #insight 
 I was working on a feature branch which had hundreds of commits and it was time to finally rebase it to main branch.
 As usual, I ran `git rebase origin/main` and there were conflicts. 
 I spent some time cleared all the conflicts continued rebasing. 
@@ -33,4 +34,4 @@ git reset --soft $(git merge-base your-branch develop)
 git commit -m "Merged commit"
 ```
 
-And finally there was just one conflict to be resolved. It took me around 10-15 mins to go through each changes and I was relieved. 
+And finally there was just one conflict to be resolved. It took me around 10-15 mins to go through each changes and I was finally relieved. 
