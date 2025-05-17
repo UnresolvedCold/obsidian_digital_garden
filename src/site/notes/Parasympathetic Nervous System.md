@@ -3,4 +3,5 @@
 ---
 
 Calm vegetative state 
-Neurotransmitter: [[acetylcholine\|acetylcholine]]
+#### Neurotransmitter
+[[acetylcholine\|acetylcholine]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-highlights/behave-by-robert-sapolsky/"}
+{"dg-publish":true,"permalink":"/book-highlights/behave-by-robert-sapolsky/","tags":["source"]}
 ---
 
 #source 
