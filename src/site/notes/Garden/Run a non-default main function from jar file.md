@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/run-a-non-default-main-function-from-jar-file/","tags":["compilation"]}
+{"dg-publish":true,"permalink":"/garden/run-a-non-default-main-function-from-jar-file/","tags":["insight"]}
 ---
 
 ```bash
