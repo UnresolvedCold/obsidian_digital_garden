@@ -2,242 +2,211 @@
 {"dg-publish":true,"permalink":"/book-highlights/behave-by-robert-sapolsky/","tags":["source"]}
 ---
 
-#source 
+# Seconds to Minutes Before
 
-Behave - Robert M. Sapolsky (Highlight: 115; Note: 0)
+No brain is an island.
 
-───────────────
+ethology, the science of interviewing an animal in its own language.
 
-◆ Two: ONE SECOND BEFORE
+## UNIVERSAL RULES VERSUS KNOBBY KNEES
+stimulus and response: rewarding an organism for a behavior makes the organism more likely to repeat that behavior, while failure to get rewarded or, worse, punishment for it, makes the organism less likely to repeat it.
 
-▪ three functional domains:
+operant conditioning - controlling the rewards and punishments in the organism’s environment.
 
-▪ Layer 1:
+Basically, [[ethology\|ethology]] is all about finding the true behaviour of a species in its natural habitat.
+You cannot judge the behaviour of dolphin in a bathtub. 
 
-▪ automatic, regulatory functions.
+## Sensory Triggers of Behavior in Some Other Species
 
-▪ Layer 2:
+Animals vocalize to intimidate, proclaim, and seduce.
 
-▪ emotions
+There are also visual triggers of behavior. Dogs crouch to invite play, birds strut their plumage, monkeys display their canines menacingly with “threat yawns.”
 
-▪ mammalian invention
+there are visual cues of cute baby–ness (big eyes, shortened muzzle, round forehead) that drive mammals crazy, motivating them to care for the kid
 
-▪ In a rodent, olfactory inputs are what the limbic system most depends on for emotional news of the world.
+Basically, there are visual, vocal and many other ways in which these species communicate. And these communication mechanism includes ways which are beyond human sensory interpretation. 
+## Under the Radar: Subliminal and Unconscious Cuing
 
-▪ In contrast, the primate limbic system is more informed by visual inputs.
+Your brain reacts to color of skin in one-tenth of the second. 
 
-▪ Limbic function is now recognized as central to the emotions
+depending on the race of the face (as shown with neuroimaging). First, in a widely replicated finding, the amygdala activates
 
-▪ every limbic structure—to influence what the hypothalamus does.
+The more resist a person is the more is the activation in amygdala. 
 
-▪ The hypothalamus, a limbic structure, is the interface between layers 1 and 2, between core regulatory and emotional parts of the brain.
+"fear conditioning” occurs faster for other-race than same-race faces. This is basically showing a face and giving a shock. For same race, the activation of [[amygdala\|amygdala]] is less as compared to cross race pictures. 
 
-▪ hypothalamus
+people judge neutral other-race faces as angrier than neutral same-race faces.
 
-▪ means by which the limbic system influences autonomic function, how layer 2 talks to layer 1
+But if the face is shown long enough for conscious processing, the [[anterior cingulate\|anterior cingulate]] and the “cognitive” [[dlPFC\|dlPFC]] then activate and inhibit the amygdala
 
-▪ Have a full bladder with its muscle walls distended, and midbrain/brain-stem circuitry votes for urinating. Be exposed to something sufficiently terrifying, and limbic structures, via the hypothalamus, persuade the midbrain and brain stem to do the same
+It’s the [[Frontal Cortex\|Frontal Cortex]] exerting executive control over the deeper, darker amygdaloid response.
 
-▪ autonomic nervous system has two parts—the sympathetic and parasympathetic nervous systems,
+subliminal signaling of race also affects the [[fusiform face area\|fusiform face area]]. You are dependent on race input to recognize faces. 
 
-▪ sympathetic nervous system (SNS)
+white Americans remember white better than black faces
 
-▪ response to arousing circumstances
+mixed-race faces are remembered better if described as being of a white rather than a black person.
 
-▪ fight or flight
+Show a video of someone’s hand being poked with a needle, and subjects have an “isomorphic sensorimotor” response—hands tense in empathy. Among both whites and blacks, the response is blunted for other-race hands;
 
-▪ SNS mediates the “four Fs—fear, fight, flight, and sex.”
+Threatening faces produce a distinctive change (called the [[P200 component\|P200 component]]) in the ERP waveform in under **two hundred milliseconds**
 
-▪ norepinephrine
+Among white subjects, viewing someone black evokes a **stronger P200 waveform** than viewing someone white, regardless of whether the person is armed.
 
-▪ adrenaline
+Then, a few milliseconds later, a second, inhibitory waveform (the N200 component) appears, originating from the frontal cortex—“Let’s think a sec about what we’re seeing before we shoot.”
 
-▪ parasympathetic nervous system (PNS)
+> Basically, first the brain flags the person as threat and after some amount of time [[Frontal Cortex\|Frontal Cortex]] sends the signal saying it is not a threat. 
+> For a person of different race, the intensity of threat is very high and the intensity of not a threat signal is low.
 
-▪ PNS is about calm, vegetative states.
+P200/N200 ratio (i.e., the greater the ratio of I’m-feeling-threatened to Hold-on-a-sec), the greater the likelihood of shooting an unarmed black individual
 
-▪ acetylcholine
+If a music belonging to black people is heard by white people, it triggers [[amygdala\|amygdala]] fear response
 
-▪ Cortex
+If you are around people who smell feared, your brain assumes you are feared too. This was evident from [[armpit sweat experiment\|armpit sweat experiment]]. This is because human brain can recognize fear from the [[pheremones\|pheremones]] present in the sweat. 
 
-▪ sensory information
+## Interoceptive Information
 
-▪ muscles are commanded to move,
+you subliminally note the lion, speeding up your heart; then your conscious brain gets this interoceptive information, concluding, “Wow, my heart is racing; I must be terrified.”
 
-▪ Emotions filter the nature and accuracy of what is remembered.
+Forcing depressed people to smile makes them feel better. If you are smiling then it means something good has happened. 
 
-▪ frontal cortex was bidirectionally enmeshed with the limbic system
+Changing your posture to confident posture reduced anxiety. 
 
-▪ frontal cortex and limbic system stimulate or inhibit each other
+processing social emotions—the PFC, insular cortex, anterior cingulate cortex, and amygdala—receive lots of interoceptive information
 
-▪ animal is being aggressive
+Pain activates most of these regions. Pain amplifies aggression. 
 
-▪ lesion the amygdala
+## Unconscious Language Effects
 
-▪ rates of aggression decline
+Words have power. They can save, cure, uplift, devastate, deflate, and kill
 
-▪ injecting Novocain
+One person's freedom fighter is another's terrorist 
 
-▪ fear and anxiety
+Doctor recommends meds labeled 95% survival chance and not those with 5% death chance 
+## Even Subtler Types of Unconscious Cuing
 
-▪ fear activates the amygdala in humans, with more activation predicting more behavioral signs of fear
+emergency requiring brave intervention, the more people present, the less likely anyone is to help—“There’s lots of people here; someone else will step forward.”
 
-▪ PTSD
+the presence of women makes men more prosocial
 
-▪ amygdala is overreactive
+## A Wonderfully Complicating Piece of the Story
 
-▪ amygdala expands in size with long-term PTSD.
+the brain can alter the sensitivity of those sensory modalities, making some stimuli more influential
 
-▪ The amygdala is particularly sensitive to unsettling circumstances that are social.
+[[Urbach-Wiethe disease\|Urbach-Wiethe disease]], which selectively destroys the amygdala. It was seen that the absence of amygdala, reduces the number of times you look at the eye of someone. And eyes are the cues that help human understand anger. These patients fails to recognise anger. But if asked to focus on eyes, their anger identifying improves. This indicates amygdala, tells us where to look for information as well. 
 
-▪ social uncertainty
+not only does the amygdala detect fearful faces, but it also biases us toward obtaining information about fearful faces.
 
-▪ Being unsure of your place is unsettling
+culture literally shapes how and where you look at the world
 
-▪ prepared learning
+# Hours to Days Before
 
-▪ evolutionarily ancient central amygdala plays a key role in innate fears
+## TESTOSTERONE’S BUM RAP
 
-▪ basolateral amygdala (BLA)
+high levels of testosterone receptors in the [[amygdala\|amygdala]]
 
-▪ BLA that learns fear and then sends the news to the central amygdala.
+even when [[testosterone\|testosterone]] and [[androgens\|androgens]] are completely eliminated, some aggression remains. Thus, some male aggression is testosterone independent.
 
-▪ When we stop fearing something, it isn’t because some amygdaloid neurons have lost their excitability. We don’t passively forget that something is scary. We actively learn that it isn’t anymore.
+the more experience a male had being aggressive prior to castration, the more aggression continues afterward.
 
-▪ the default state is to trust, and what the amygdala does is learn vigilance and distrust
+Aggression is learned from society. Testosterone add to the aggression but is not responsible to generate aggression.  
 
-▪ the amount of reward is changing” and “the amount of punishment is changing” are the same
+## Subtleties of Testosterone Effects
 
-▪ Sensory inputs
+When looking at faces expressing strong emotions, we tend to make microexpressions that mimic them; testosterone decreases such empathic mimicry
 
-▪ amygdala receives news of that reliable trigger of fear and aggression, namely pain
+Testosterone makes strangers less trustworthy. It activates the [[amygdala\|amygdala]] more for strangers. 
 
-▪ unpredictable pain,
+After winning a fight, testosterone is secreted.
+Testosterone increases glucose delivery and metabolism. And this makes pheremones smell scarier. 
 
-▪ projection from the “insular cortex,
+Winning also increases testosterone receptors in [[bed nucleus of the stria terminalis\|bed nucleus of the stria terminalis]]. It becomes more sensitive to the hormone. 
 
-▪ rancid food,
+Testosterone decreases the[[Prefrontal cortex\|Prefrontal cortex]] activity. 
 
-▪ spit it out
+testosterone’s effects are hugely context dependent.
 
-▪ disgusting smells
+## Contingent Testosterone Effects
 
-▪ morally disgusting—social norm violations
+rather than causing X, testosterone amplifies the power of something else to cause X.
 
-▪ how much revenge you take
+Testosterone did not create new social patterns of aggression; it exaggerated preexisting ones.
 
-▪ us and them.
+testosterone didn’t raise baseline activity in the amygdala; it boosted the amygdala’s response and heart-rate reactivity to angry faces (but not to happy or neutral ones)
 
-▪ hippocampus
+## A Key Synthesis: The Challenge Hypothesis
 
-▪ amygdala learns fear and the hippocampus learns detached, dispassionate facts
+it prompts whatever behaviors are needed to maintain status. This changes things enormously.
 
-▪ amygdala outputs are mostly about setting off alarms throughout the brain and body
+subjects were given testosterone beforehand? People made more generous offers in situations which required generosity 
 
-▪ BNST
+## OXYTOCIN AND VASOPRESSIN: A MARKETING DREAM
 
-▪ hormonal stress response
+Oxytocin prepares the body of a female mammal for birth and lactation
 
-▪ sympathetic nervous system going full blast? During fear, flight, fight, and sex
+oxytocin also facilitates maternal behavior
 
-▪ sex and aggression activate the sympathetic nervous system, which in turn can influence behavior
+lots of grooming and physical contact predicted high oxytocin levels in female members of a pair. What predicted high levels of oxytocin in males? Lots of sex.
 
-▪ opposite of love is not hate, it’s indifference
+circulating oxytocin levels are elevated in couples when they’ve first hooked up
 
-▪ Fear typically increases aggression only in those already prone to it
+the higher the levels, the more physical affection, the more behaviors are synchronized, the more long-lasting the relationship
 
-▪ the frontal cortex makes you do the harder thing when it’s the right thing to do.
+oxytocin and vasopressin facilitate bonding between parent and child and between couples.
 
-▪ not fully online until people are in their midtwenties
+This evolved in such a way that human can tame dogs and oxytocin is secreted by dog.
+Increases oxytocin makes a dog stare at its owner longer. And in human gazing increases oxytocin and this creates a parent child relation within different species 
 
-▪ PFC is essential for categorical thinking
+oxytocin inoculated betrayal aversion among investors
 
-▪ frontal cortex tracks rules
+oxytocin is released when we experience prosocial behavior
 
-▪ don’t pee whenever you feel like it
+## Prosociality Versus Sociality
 
-▪ working hard, the frontal cortex has an extremely high metabolic rate
+Oxytocin increases the accuracy of assessments of other people’s thoughts, with a gender twist—women improve at detecting kinship relations, while men improve at detecting dominance relations
 
-▪ self-control is a finite resource
+Oxytocin increases accuracy in detecting faces
 
-▪ Make the frontal cortex work hard—a tough working-memory task, regulating social behavior, or making numerous decisions while shopping. Immediately afterward performance on a different frontally dependent task declines.
+When playing against strangers, oxytocin decreases cooperation, enhances envy when luck is bad, and enhances gloating when it’s good.
 
-▪ increase cognitive load on the frontal cortex, and afterward subjects become less prosocial*—less charitable or helpful, more likely to lie
+oxytocin makes you more prosocial to people like you but spontaneously lousy to others
 
-▪ soon after we’re potty-trained, doing the harder thing with our bladder muscles becomes automatic.
+## THE ENDOCRINOLOGY OF AGGRESSION IN FEMALES
 
-▪ frontal cortex has to add social factors to a cognitive mix.
+During late pregnancy, estrogen and progesterone increase maternal aggression by increasing oxytocin release in certain brain regions
 
-▪ Different PFC circuits tracked “reward-driven” and “advice-driven” cogitating
+Estrogen contributes to maternal aggression. But estrogen can also reduce aggression and enhance empathy and emotional recognition. There are different receptors for estrogen in brain.
 
-▪ the bigger the size of the average social group, the larger the relative size of the frontal cortex
+progesterone, working with estrogen, promotes maternal aggression. However, on its own it decreases aggression and anxiety
 
-▪ the bigger the group, the larger the PFC becomes
+## STRESS AND IMPRUDENT BRAIN FUNCTION
 
-▪ social complexity expands the frontal cortex.
+### The Basic Dichotomy of the Acute and the Chronic Stress Response
 
-▪ first “frontal” patient, the famous Phineas Gage,
+Glucocorticoids plus the sympathetic nervous system enable an organism to survive a physical stressor by activating the classical “fight or flight” response. Whether you are that zebra or that lion, you’ll need energy for your muscles, and the stress response rapidly mobilizes energy into circulation from storage sites in your body. Furthermore, heart rate and blood pressure increase, delivering that circulating energy to exercising muscles faster. Moreover, during stress, long-term building projects—growth, tissue repair, and reproduction—are postponed until after the crisis; after all, if a lion is chasing you, you have better things to do with your energy than, say, thicken your uterine walls
 
-▪ Gage was described by friends as “no longer Gage,”
+Stress involves physical stress and the thinking that your homeostatis will become imbalanced 
 
-▪ the “decider” is being destroyed.*
+### Sustained Stress and the Neurobiology of Fear
 
-▪ During REM sleep, when dreaming occurs, the frontal cortex goes off-line,
+stress or glucocorticoid administration decreases accuracy when rapidly assessing emotions of faces
 
-▪ PFC silences, producing emotional tsunamis: during orgasm.
+stress makes it easier to learn a fear association and to consolidate it into a long-term memory.
 
-▪ dorsal part of the PFC, especially the dorsolateral PFC (dlPFC)—
+stress weakens the PFC’s hold over the amygdala
 
-▪ decider of deciders
+Stress also makes it harder to unlearn fear
 
-▪ last part to fully mature
+### Sustained Stress, Executive Function, and Judgment
 
-▪ ventral part of the PFC,
+in one study, prolonged administration of high glucocorticoid levels to healthy subjects impaired working memory into the range seen after frontal cortical damage
+Glucocorticoids accomplish this by enhancing norepinephrine signaling in the PFC so much that, instead of causing aroused focus, it induces chicken-with-its-head-cut-off cognitive tumult, and by enhancing disruptive signaling from the amygdala to the PFC
 
-▪ vmPFC
+Stress impairs the ability to switch between tasks
 
-▪ impact of emotion on decision making
 
-▪ someone forgoes an immediate reward for a bigger one later
 
-▪ transcranial magnetic stimulation can temporarily silence part of someone’s cortex,
 
-▪ subjects playing an economic game impulsively accepted lousy offers that they’d normally reject in the hopes of getting better offers in the future.
 
-▪ effects of vmPFC damage?
 
-▪ differences appear when it comes to making social/emotional decisions—vmPFC patients just can’t decide.*
 
-▪ Damaging the vmPFC, thus removing limbic input to the PFC, eliminates gut feelings, making decisions harder.
-
-▪ Without a vmPFC, you may know the meaning of negative feedback, but you don’t know the feeling of it in your gut and thus don’t shift behavior.
-
-▪ without the dlPFC, the metaphorical superego is gone, resulting in individuals who are now hyperaggressive, hypersexual ids.
-
-▪ without the dlPFC, the metaphorical superego is gone
-
-▪ vmPFC and dlPFC
-
-▪ domination by emotion versus cognition
-
-▪ regulating emotion through thought.
-
-▪ hard to regulate thought
-
-▪ thinking differently” about something emotional differs from simply suppressing the expression of the emotions
-
-▪ frontal cortex; the mantra is that it makes you do the harder thing when that is the right thing
-
-◆ Appendix 1: Neuroscience 101
-
-▪ pain in neuron A’s world is not only transient but also fast. Pain in the neuron D branch not only is long-lasting but also has a slower onset
-
-▪ All the regions of the brain have names
-
-▪ names (usually multisyllabic and derived from Greek or Latin), as do the subregions, and the sub-subregions
-
-▪ Myelin
-
-▪ Thus they’re generically referred to as “white matter.”
-
-▪ Given that every brain region is getting projections from and sending projections to a zillion other places, it is rare that an individual brain region is “the center for” anything. Instead it’s all networks where, far more often, a particular region “plays a key role in,” “helps mediate,” or “influences” a behavior.
