@@ -33,13 +33,13 @@ depending on the race of the face (as shown with neuroimaging). First, in a wide
 
 The more resist a person is the more is the activation in amygdala. 
 
-"fear conditioning” occurs faster for other-race than same-race faces. This is basically showing a face and giving a shock. For same race, the activation of [[amygdala\|amygdala]] is less as compared to cross race pictures. 
+"fear conditioning” occurs faster for other-race than same-race faces. This is basically showing a face and giving a shock. For same race, the activation of [[Garden/amygdala\|amygdala]] is less as compared to cross race pictures. 
 
 people judge neutral other-race faces as angrier than neutral same-race faces.
 
-But if the face is shown long enough for conscious processing, the [[anterior cingulate\|anterior cingulate]] and the “cognitive” [[dlPFC\|dlPFC]] then activate and inhibit the amygdala
+But if the face is shown long enough for conscious processing, the [[Garden/anterior cingulate\|anterior cingulate]] and the “cognitive” [[Garden/dlPFC\|dlPFC]] then activate and inhibit the amygdala
 
-It’s the [[Frontal Cortex\|Frontal Cortex]] exerting executive control over the deeper, darker amygdaloid response.
+It’s the [[Garden/Frontal Cortex\|Frontal Cortex]] exerting executive control over the deeper, darker amygdaloid response.
 
 subliminal signaling of race also affects the [[fusiform face area\|fusiform face area]]. You are dependent on race input to recognize faces. 
 
@@ -55,12 +55,12 @@ Among white subjects, viewing someone black evokes a **stronger P200 waveform** 
 
 Then, a few milliseconds later, a second, inhibitory waveform (the N200 component) appears, originating from the frontal cortex—“Let’s think a sec about what we’re seeing before we shoot.”
 
-> Basically, first the brain flags the person as threat and after some amount of time [[Frontal Cortex\|Frontal Cortex]] sends the signal saying it is not a threat. 
+> Basically, first the brain flags the person as threat and after some amount of time [[Garden/Frontal Cortex\|Frontal Cortex]] sends the signal saying it is not a threat. 
 > For a person of different race, the intensity of threat is very high and the intensity of not a threat signal is low.
 
 P200/N200 ratio (i.e., the greater the ratio of I’m-feeling-threatened to Hold-on-a-sec), the greater the likelihood of shooting an unarmed black individual
 
-If a music belonging to black people is heard by white people, it triggers [[amygdala\|amygdala]] fear response
+If a music belonging to black people is heard by white people, it triggers [[Garden/amygdala\|amygdala]] fear response
 
 If you are around people who smell feared, your brain assumes you are feared too. This was evident from [[armpit sweat experiment\|armpit sweat experiment]]. This is because human brain can recognize fear from the [[pheremones\|pheremones]] present in the sweat. 
 
@@ -103,7 +103,7 @@ culture literally shapes how and where you look at the world
 
 ## TESTOSTERONE’S BUM RAP
 
-high levels of testosterone receptors in the [[amygdala\|amygdala]]
+high levels of testosterone receptors in the [[Garden/amygdala\|amygdala]]
 
 even when [[testosterone\|testosterone]] and [[androgens\|androgens]] are completely eliminated, some aggression remains. Thus, some male aggression is testosterone independent.
 
@@ -115,14 +115,14 @@ Aggression is learned from society. Testosterone add to the aggression but is no
 
 When looking at faces expressing strong emotions, we tend to make microexpressions that mimic them; testosterone decreases such empathic mimicry
 
-Testosterone makes strangers less trustworthy. It activates the [[amygdala\|amygdala]] more for strangers. 
+Testosterone makes strangers less trustworthy. It activates the [[Garden/amygdala\|amygdala]] more for strangers. 
 
 After winning a fight, testosterone is secreted.
 Testosterone increases glucose delivery and metabolism. And this makes pheremones smell scarier. 
 
-Winning also increases testosterone receptors in [[bed nucleus of the stria terminalis\|bed nucleus of the stria terminalis]]. It becomes more sensitive to the hormone. 
+Winning also increases testosterone receptors in [[Garden/bed nucleus of the stria terminalis\|bed nucleus of the stria terminalis]]. It becomes more sensitive to the hormone. 
 
-Testosterone decreases the[[Prefrontal cortex\|Prefrontal cortex]] activity. 
+Testosterone decreases the[[Garden/Prefrontal cortex\|Prefrontal cortex]] activity. 
 
 testosterone’s effects are hugely context dependent.
 
