@@ -203,10 +203,237 @@ in one study, prolonged administration of high glucocorticoid levels to healthy 
 Glucocorticoids accomplish this by enhancing norepinephrine signaling in the PFC so much that, instead of causing aroused focus, it induces chicken-with-its-head-cut-off cognitive tumult, and by enhancing disruptive signaling from the amygdala to the PFC
 
 Stress impairs the ability to switch between tasks
+stress weakens frontal connections with the hippocampus, shifting to me strategies becomes hard
 
+major stressors make people of both genders more risk taking
 
+moderate stressors bias men toward, and women away from, risk taking
 
+Stated most broadly, sustained stress impairs risk assessment
 
+### Sustained Stress and Pro- and Antisociality
 
+There’s an additional depressing reason why stress fosters aggression—because it reduces stress.
 
+guess that lashing out activates dopaminergic reward pathways, a surefire way to inhibit CRH release.*
 
+stress biases us toward selfishness.
+
+Does stress decrease empathy? Seemingly yes
+
+a mouse’s pain threshold is lowered when it is near another mouse in pain, but only if the other mouse is its cagemate
+
+The presence of a strange mouse triggers a stress response. But when glucocorticoid secretion is temporarily blocked, mice show the same “pain empathy” for a strange mouse as for a cagemate
+
+glucocorticoid creates a huge difference between us and them
+
+“male = fight/flight and female = tend/befriend.”
+
+## SOME IMPORTANT DEBUNKING: ALCOHOL
+
+alcohol only evokes aggression only in (a) individuals prone to aggression
+
+b) those who believe that alcohol makes you more aggressive, once more showing the power of social learning to shape biology
+
+# Days to Months Before
+
+## NONLINEAR EXCITATION
+
+a new memory requires the formation of a new synapse
+
+Forming memories doesn’t require new synapses (let alone new branches or neurons); it requires the strengthening of preexisting synapses.
+
+repeated firing across a synapse “strengthens” it, with a key role played by the neurotransmitter glutamate.
+
+LTP—“long-term potentiation.”
+
+NMDA receptors finally activate and open their channels, it is calcium, rather than sodium, that flows in.
+
+calcium tidal wave causes more copies of glutamate receptors
+
+calcium also alters glutamate receptors that are already on the front lines of that dendritic spine; each will now be more sensitive to glutamate signals
+
+causes the synthesis of peculiar neurotransmitters in the dendritic spine, which are released
+
+presynaptic axon terminal yelling “glutamate” more loudly and the postsynaptic dendritic spine listening more attentively
+
+LTD—long-term “depression
+
+LTD is not the functional opposite of LTP either—rather than being the basis of generic forgetting, it sharpens a signal by erasing what’s extraneous.
+
+one mechanism underlying LTP is an alteration in glutamate receptors so that they are more responsive to glutamate
+
+All this is cool, but LTP and LDP are what happens in the hippocampus when you learn explicit facts, like someone’s phone number
+
+### Rescued from the Trash
+
+Whether the amygdala is also activated seems to determine whether the hippocampus interprets the glucocorticoids as good or bad stress
+
+### Axonal Plasticity
+
+## DIGGING DEEPER IN THE ASH HEAP OF HISTORY
+
+Brain changes and hence people change
+
+## Adolescence; or, Dude, Where’s My Frontal Cortex?
+
+it’s the time of life of maximal risk taking, novelty seeking, and affiliation with peers. All because of that immature frontal cortex.
+
+## THE NUTS AND BOLTS OF FRONTAL CORTICAL MATURATION
+
+The delayed maturation of the frontal cortex suggests an obvious scenario, namely that early in adolescence the frontal cortex has fewer neurons, dendritic branches, and synapses than in adulthood, and that levels increase into the midtwenties. Instead, levels decrease.
+
+frontal cortical maturation during adolescence is about a more efficient brain, not more brain
+
+### Frontal Cortical Changes in Cognition in Adolescence
+
+### Frontal Cortical Changes in Emotional Regulation
+
+In adolescence, though, the vmPFC response is less; thus the amygdaloid response keeps growing.
+
+Reappraisal strategies get better during adolescence, with logical neurobiological underpinnings
+
+## ADOLESCENT RISK TAKING
+
+during risky decision making, adolescents activate the prefrontal cortex less than do adults;the less activity, the poorer the risk assessment.
+
+During adolescence, dopamine projection density and signaling steadily increase in both pathways (although novelty seeking itself peaks at midadolescence, probably reflecting the emerging frontal regulation after that).
+
+In adults, small, medium, and large rewards caused small, medium, and large increases in accumbens activity
+
+## PEERS, SOCIAL ACCEPTANCE, AND SOCIAL EXCLUSION
+
+Adolescent vulnerability to peer pressure from friends, especially peers they want to accept them as friends, is storied
+
+adolescents are more social and more complexly social than children or adults
+
+kids who are more sensitive to peer pressure are more prepared to imitate someone else’s emotionality
+
+harm to people increasingly activates the amygdala, while the opposite occurs for harm to objects
+
+By preadolescence, egalitarianism gives way to acceptance of inequality because of merit or effort or for a greater good
+
+By adolescence, boys tend to accept inequality more than girls do
+
+### Moral Development
+
+three stages of moral
+
+kids reconcile more readily when the relationship matters to them.
+
+### Preconventional Reasoning
+
+#### Stage 1
+Should I eat the cookie? 
+How likely am I to get punished? Being punished is unpleasant
+
+Aggression typically peaks around ages two through four, after which kids are reined in by adults’ punishment
+#### Stage 2
+It depends. If I refrain, will I get rewarded?
+
+kids reconcile more readily when the relationship matters to them.
+
+### Conventional Reasoning
+
+#### Stage 3
+
+What will people think of me for eating the cookie?
+#### Stage 4
+
+What’s the law? Are laws sacrosanct? What if everyone broke this law?
+
+### Postconventional Reasoning
+
+#### Stage 5
+What circumstances placed the cookie there? Who decided that I shouldn’t take it?
+#### Stage 6
+
+Is my moral stance regarding this more vital than some law, a stance for which I’d pay the ultimate price if need be?
+
+## THE IMPORTANCE OF MOTHERS
+
+What do children need from their mothers?”: love, warmth, affection, responsiveness, stimulation, consistency, reliability
+
+What is produced in their absence? Anxious, depressed, and/or poorly attached adults
+
+when abortions become readily available in an area, rates of crime by young adults decline about twenty years later
+
+## ANY KIND OF MOTHER IN A STORM
+Why do we often become attached to a source of negative reinforcement?
+
+Because of poor self-esteem, believing you’ll never do better
+
+“stress hyporesponsive period” (SHRP)
+
+Glucocorticoids have so many adverse effects on brain development
+
+SHRP represents a gamble
+
+attachment to the caretaker has evolved to ensure that the infant forms a bond to that caregiver regardless of the quality of care received.” Any kind of mother in a storm.
+
+## DIFFERENT ROUTES TO THE SAME PLACE
+
+By age five, the lower a child’s socioeconomic status, on the average, the (a) higher the basal glucocorticoid levels and/or the more reactive the glucocorticoid stress response, (b) the thinner the frontal cortex and the lower its metabolism, and (c) the poorer the frontal function concerning working memory, emotion regulation, impulse control, and executive decision making;
+
+low-ranking mother predicts elevated glucocorticoids in adulthood in baboons
+
+## TWO SIDE TOPICS
+Exposing children to a violent TV or film clip increases their odds of aggression soon after.41 Interestingly, the effect is stronger in girls (amid their having lower overall levels of aggression). Effects are stronger when kids are younger or when the violence is more realistic and/or is presented as heroic
+
+effects are strongest on kids already prone toward violence
+
+### Bullying
+
+bullying targets aren’t selected at random. Kids with the metaphorical “kick me” signs on their backs are more likely to have personal or family psychiatric issues and poor social and emotional intelligence
+
+The picture of the bullies is no surprise either, starting with their disproportionately coming from families of single moms or younger parents with poor education and employment prospects.
+
+## Collectivist Versus Individualist Cultures
+
+On average, mothers in individualist cultures, when compared with those in collectivist ones, speak louder, play music louder, have more animated expressions.54 They view themselves as teachers rather than protectors, abhor a bored child, value high-energy affect
+
+Mothers in collectivist cultures, in contrast, spend more time than individualist mothers soothing their child, maintaining contact, and facilitating contact with other adults. They value low arousal affect and sleep with their child to a later age. Games are about cooperation and fitting in; if playing with her child with, say, a toy car, the point is not exploring what a car does (i.e., being automobile), but the process of sharing (“Thank you for giving me your car; now I’ll give it back to you”). Kids are trained to get along, think of others, accept and adapt, rather than change situations
+
+kids in (collectivist) Japan play more violent video games than do American kids, yet are less aggressive
+
+## 9 long months
+
+### The Cat in the Hat in the Womb
+
+What goes in the mother's amniotic fluid shapes the taste preferences. This might include the spices mother ate.
+
+A pregnant woman’s voice is audible in the womb, and newborns recognize and prefer the sound of their mother’s voice
+
+## BOY AND GIRL BRAINS, WHATEVER THAT MIGHT MEAN
+
+testosterone has much of its masculinizing effect in the brain by becoming estrogen.
+
+Testosterone exposure throughout pregnancy produced daughters who were “pseudohermaphrodites”—looked like males on the outside but had female gonads on the
+
+stressed mothers secrete glucocorticoids, which enter fetal circulation and basically have the same bad consequences as in stressed infants and children.
+
+offspring of more “attentive” rat mothers (those that frequently nurse, groom, and lick their pups) become adults with lower glucocorticoid levels, less anxiety, better learning, and delayed brain aging
+
+# Back to When You Were Just a Fertilized Egg
+
+Routines, do everything. But genes don't decide when a protein is made.
+
+There are stretches of DNA which do not code. They are non coding in DNA. 95% of the DNA is non coding DNA
+
+transcription factors regulate genes. What regulates transcription factors? The answer devastates the concept of genetic determinism: the environment
+
+Genes don't make sense outside of the environment
+
+Promoters and transcription factors are like if-else blocks of genes
+
+## Transposable Genetic Elements, the Stability of the Genome, and Neurogenesis
+
+Transposable Genetic Elements, the Stability of the Genome, and Neurogenesis
+
+stretches of DNA had been copied, with the copy then randomly inserted into another stretch of DNA
+
+jumping genes, transposons
+
+## GENES FROM THE TOP DOWN—BEHAVIOR GENETICS
+
+Roughly half your genes come from each parent, but prenatal environment comes from Momprenatal effects aren’t big.
