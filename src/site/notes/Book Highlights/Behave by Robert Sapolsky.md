@@ -437,3 +437,47 @@ jumping genes, transposons
 ## GENES FROM THE TOP DOWN—BEHAVIOR GENETICS
 
 Roughly half your genes come from each parent, but prenatal environment comes from Momprenatal effects aren’t big.
+
+75 percent of MZ twins share one placenta (i.e., are “monochorionic”).* Thus most MZ twin fetuses share maternal blood flow more than do DZ twins, and thus are exposed to more similar levels of maternal hormones and nutrients
+
+Dutch Hunger Winter phenomenon showed that third-trimester malnutrition increased the risk of some adult diseases more than tenfold.
+
+Roughly half your genes come from each parent, but prenatal environment comes from Mom
+
+### The Fragile Nature of Heritability Estimates
+
+If genes strongly influence average levels of a trait, that trait is strongly inherited
+
+If genes strongly influence the extent of variability around that average level, that trait has high heritability.
+
+heritability score indicates the percentage of total variation attributable to genetics.
+
+### The Difference Between a Trait Being Inherited and Having a High Degree of Heritability
+
+If a person has 4 fingers, it is most likely due to an accident. And if we're told that a person has four fingers, what might be the reason? You'll more likely to give a correct answer based on the information that he made an accident rather than what were the genes responsible for or hereditary settings were responsible for 4 fingers. This means having four fingers, it's not a hereditary trait.
+
+Another example is women wearing earrings. You can convert to a better answer if you know the genes of a person. Just knowing that a person is carrying 2 X-chromosome, you can give a high degree of estimate that person will wear earring. And if at the two Y chromosomes, the person carries a white chromosome, it is more likely that he will not wear any earring.
+
+The more environments in which you study a genetic trait, the more novel environmental effects will be revealed, decreasing the heritability score.
+
+Having the low-activity version of MAO-A tripled the likelihood . . . but only in people with a history of severe childhood abuse
+
+effects of this genetic variant can be understood only by considering other, nongenetic factors in individuals’ lives, such as childhood adversity and adult provocation.
+
+### The Dopamine System
+
+there are at least five kinds (found in different parts of the brain, binding dopamine with differing strengths and duration), each coded for by a gene
+
+D4 dopamine receptor (the gene is called DRD4)
+
+kids with the 7R variant are less generous than average. But only if they show insecure attachment to their parents
+
+don’t ask what a gene does; ask what it does in a particular context.
+
+### The Neuropeptides Oxytocin and Vasopressin
+
+making generous people more generous, while having no effect on ungenerous people
+
+Knowing what variant of a candidate gene someone has (or even what variants of a collection of genes) doesn’t help much in predicting their behavior.
+
+
