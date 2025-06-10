@@ -36,3 +36,19 @@ git worktree add ../<worktreename> <branchname>
 ```
 git worktree remove <worktreename>
 ```
+
+## Call worktree from root directory
+I do not want to get inside the main repo or any other features repo to call the git command. 
+For this, I have created a bash function that works as an alias to git and checks if I'm in the mvts repo then call worktree from vrp-obts-rec directory.
+
+> This is written in `.zshrc` as I use zsh, you can write this in `.bashrc` if you use bash or other rc files of your respective terminal
+
+```bash
+function git() {
+  if [[ "$PWD" == "/Users/shubham.kumar/Projects/GreyOrange/mvts" ]]; then
+    command git --git-dir=vrp-obts-rec/.git "$@"
+  else
+    command git "$@"
+  fi
+}
+```
