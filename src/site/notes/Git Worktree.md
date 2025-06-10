@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/git-worktree/","tags":["insight"]}
+{"dg-publish":true,"permalink":"/git-worktree/","tags":["insight","git"]}
 ---
 
 # Git Worktree
