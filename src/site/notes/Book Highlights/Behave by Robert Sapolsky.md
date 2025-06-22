@@ -480,4 +480,124 @@ making generous people more generous, while having no effect on ungenerous peopl
 
 Knowing what variant of a candidate gene someone has (or even what variants of a collection of genes) doesn’t help much in predicting their behavior.
 
+# Centuries to Millennia Before
+
+chimps make tools
+
+## COLLECTIVIST VERSUS INDIVIDUALIST CULTURES
+
+East Asian cultural collectivism coevolved with selection against the 7R variant
+
+### Stratofied vs egalitarianism 
+
+In other words, when times are tough, the unequal access to wealth becomes the unequal distribution of misery and death
+
+cultures with more income inequality have less social capital.35 Trust requires reciprocity, and reciprocity requires equality, whereas hierarchy is about domination and asymmetry.
+
+Unequal societies may need ambivalence for system stability: Income inequality compensates groups with partially positive social images.
+
+Its not so much being poor that predicts poor health. It’s feeling poor—someone’s subjective SES (e.g., the answer to “How do you feel you’re doing financially when you compare yourself with other people?”) is at least as good a predictor of health as is objective SES.
+
+Poverty is not a predictor of crime as much as poverty amid plenty is
+
+psychosocial angle—inequality means less social capital, less trust, cooperation, and people watching out for one another
+
+neomaterialist angle—inequality means more secession of the wealthy from contributing to the public good
+
+despite the conservative nightmare of class warfare, of the poor rising up to slaughter the wealthy, when inequality fuels violence, it is mostly the poor preying on the poor.
+
+## POPULATION SIZE, POPULATION DENSITY, POPULATION HETEROGENEITY
+
+it is only when societies grow large enough that people regularly encounter strangers that “Big Gods” emerge—deities who are concerned with human morality and punish our transgressions
+
+Societies with frequent anonymous interactions tend to outsource punishment to gods
+
+high-density living produced “deviant” behavior and “social pathology.
+
+High-density living doesn’t make rats more aggressive. Instead it makes aggressive rats more aggressive
+
+In contrast, crowding makes unaggressive individuals more timid. In other words, it exaggerates preexisting social tendencies.
+
+When people of differing ethnicities, races, or religions live together, they experience the similarities rather than the differences and view one another as individuals, transcending stereotypes.
+
+## THE RESIDUES OF CULTURAL CRISES
+
+Chagnon published the remarkable report that Yanomamö men who were killers had more wives and offspring than average—thus passing on more copies of their genes. This suggested that if you excel at waging it, war can do wonders for your genetic legacy.
+
+HG societies expend lots of collective effort on enforcing fairness, indirect reciprocity, and avoidance of despotism
+
+Gossip is the weapon of norm enforcement.
+
+# The evolution of behaviour
+
+## Kin selection 
+
+in terms of the genes being passed on to the next generation, it doesn’t matter if you reproduce or sacrifice yourself so that your twin reproduces.
+
+I’ll gladly lay down my life for two brothers or eight cousins.
+
+sperm in a female’s vaginal tract can aggregate, allowing them to swim faster.
+
+Among a deer mouse species where females mate with multiple males, sperm aggregate only with sperm from the same individual or a close relative.
+
+Most cultures have historically allowed polygyny, with monogamy as the rarer beast. Even rarer is polyandry—multiple men married to one woman. This occurs in northern India, Tibet, and Nepal, where the polyandry is “adelphic” (aka “fraternal”)—a woman marries all the brothers of one family, from the strapping young man to his infant brother
+
+dangers of inbreeding counter the kin-selection advantages
+
+optimal balance is third-cousin matings
+
+Women prefer the smell of moderately related over unrelated men.
+
+the highest reproductive success arose from third- and fourth-cousin marriages
+
+Some species have innate recognition.
+
+Rodents produce pheromonal odors with individual signatures, derived from genes called the major histocompatibility complex (MHC). This is a super variable gene cluster that produces unique proteins that form a signature for an individual.
+
+MHC is signature. 
+Your immune system recognises itself and attack foreign things.
+
+MHC of close relatives are similar, less attack. 
+
+Olfactory is sensitive towards own MHC and hence similar MHC leads to less attack from immune system.
+
+## Reciprocal Alturism 
+
+Paper envelops rock; rock breaks scissors; scissors cut paper. Would rocks want to bash every scissors into extinction? No way. Because then all those papers would enwrap the rocks into extinction
+
+### Gigantic Question #1: What Strategy for Cooperating Is Optimal?
+
+Tit for toe is on average the best performer. Not because of gives you advantage but rather because it on average never lets you taken advantage of. 
+
+But in real world there can be an error signal. And 2 payers playing tit for toe can stuck in never ending misunderstanding.
+
+What is this transition from hard-assed, punitive Tit for Tat to incorporating forgiveness? Establishing trust.
+
+when there are signal errors, differing costs to different strategies, and the existence of mutations, a cycle emerges: a heterogeneous population of strategies, including exploitative, noncooperative ones, are replaced by Tit for Tat, then replaced by Forgiving Tit for Tat, then by Always Cooperate—until a mutation reintroduces an exploitative strategy that spreads like wildfire
+
+animals have systems of reciprocity with sensitivity to cheating.
+
+## STANDING ON THREE LEGS
+
+### Pair-Bonding Versus Tournament Species
+
+| Species A                                                            | Species B                                                                                          |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Male and female have similar body sizes, coloration, and musculature | males are far bigger and more muscular than females and have flashy, conspicuous facial coloration |
+|                                                                      | dramatic, aggressive conflict among males for high dominance rank                                  |
+| all males reproduce a few times                                      | 5 percent of the males do nearly all the mating                                                    |
+| twinning                                                             |                                                                                                    |
+| Males are more selective of life partner                             |                                                                                                    |
+|                                                                      | bigger testes                                                                                      |
+| Female looks for affirmative behaviors and good parenting skills     | Female gets nothing, hence she looks for body and genes                                            |
+| cuckoldry                                                            |                                                                                                    |
+### Parent-Offspring Conflict
+
+Baboon moms evolved to wean their kids at the age where they can feed themselves, and baboon kids evolved to try to delay that day
+
+fetus and Mom have a metabolic struggle involving insulin, the pancreatic hormone secreted when blood glucose levels rise, which triggers glucose entry into target cells. The fetus releases a hormone that makes Mom’s cells unresponsive to insulin (i.e., “insulin resistant”), as well as an enzyme that degrades Mom’s insulin. Thus Mom absorbs less glucose from her bloodstream, leaving more for the fetus.*
+
+Genotype = someone’s genetic makeup. Phenotype = the traits observable to the outside world produced by that genotype
+
+we treat people like relatives when they feel like relatives.
 
