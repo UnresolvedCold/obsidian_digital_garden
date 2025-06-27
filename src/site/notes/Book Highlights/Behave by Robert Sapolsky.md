@@ -601,3 +601,87 @@ Genotype = someone’s genetic makeup. Phenotype = the traits observable to the 
 
 we treat people like relatives when they feel like relatives.
 
+## THE NEXT CHALLENGE: IS EVOLUTIONARY CHANGE CONTINUOUS AND GRADUAL?
+
+In 1972 Stephen Jay Gould and paleontologist Niles Eldredge of the American Museum of Natural History proposed an idea that simmered and then caught fire in the 1980s. They argued that evolution isn’t gradual; instead, most of the time nothing happens, and evolution occurs in intermittent rapid, dramatic lurches
+
+### Punctuated Equilibrium
+
+Eldredge and Gould focused on there being plenty of fossil records that were complete chronologically (for example, trilobites and snails, Eldredge’s and Gould’s specialties, respectively) and didn’t show gradualism. Instead there were long periods of stasis, of unchanged fossils, and then, in a paleontological blink of an eye, there’d be a rapid transition to a very different form
+
+But with fossils the blink of an eye, a stretch of time unresolvably short in the fossil record, could be 50,000 to 100,000 years
+
+paleontologists study things that are fossilized. Bones, shells, bugs in amber. Not organs—brains, pituitaries, ovaries. Not cells—neurons, endocrine cells, eggs, sperm. Not molecules—neurotransmitters, hormones, enzymes
+
+A final rebuttal from gradualists was to demand real-time evidence of rapid evolutionary change in species
+
+One example was wonderful research by the Russian geneticist Dmitry Belyaev, who in the 1950s domesticated Siberian silver foxes.65 He bred captive ones for their willingness to be in proximity to humans, and within thirty-five generations he’d generated tame foxes who’d cuddle in your arms.
+
+this is artificial rather than natural selection
+
+The first generations with Westernized diets develop catastrophically high rates of obesity, hypertension, adult-onset diabetes, and death at early ages, thanks to “thrifty” genotypes that are great at storing nutrients, honed by millennia of sparser diets.
+
+diabetes rates begin to subside, as there is an increased prevalence in the population of “sloppier” metabolic genotypes
+
+But mother don't give birth to a new Species
+## A FINAL CHALLENGE LACED WITH POLITICS: IS EVERYTHING ADAPTIVE?
+
+an adaptationist approach is to determine whether a trait is indeed adaptive and, if so, what the selective forces were that brought it about. Much of sociobiological thinking is adaptationist in flavor.
+
+Observe a behavior, generate a just-so story that assumes adaptation, and the person with the best just-so story wins.
+
+The problem was that sociobiology explained too much and predicted too little
+
+According to Gould, traits often evolve for one reason and are later co-opted for another use
+
+Evolution is a tinkerer, not an inventor.
+
+It works with whatever’s available as selective pressures change, producing a result that may not be the most adaptive but is good enough, given the starting materials
+
+There’s clear empirical evidence for both gradualism and punctuated change, and for molecular mechanisms underlying both
+
+fewer spandrels than touted by spandrelites
+
+
+# Us Versus Them
+
+There are two kinds of people in the world: those who divide the world into two kinds of people and those who don’t.
+
+the brain differentially processes images within milliseconds based on minimal cues about race or gender.
+
+Not only is mimicry pleasing, activating mesolimbic dopamine, but it also made subjects more likely to help the researcher, picking up their dropped pen.
+
+As the association solidifies, is the ringing bell still “just” a marker symbolizing impending pleasure, or does it become pleasurable itself ? -- yes
+
+By age three to four, kids already group people by race and gender, have more negative views of such Thems, and perceive other-race faces as being angrier than same-race faces.
+
+sometimes you help Us by directly helping Us, sometimes by hurting Them
+
+in-group parochialism is often more concerned about Us beating Them than with Us simply doing well.
+
+Consistent with that, priming loyalty strengthens in-group favoritism and identification, while priming equality does the opposite.
+
+we screw up because of special circumstances; They screw up because that’s how They are.
+
+In economic games people implicitly treat members of other races as less trustworthy or reciprocating.
+
+Thems do not solely evoke a sense of menace; sometimes it’s disgust.
+
+Pictures of drug addicts or the homeless typically activate the insula, not the amygdala
+
+Disgust serves as an ethnic or out-group marker
+
+Carlos Navarrete at Michigan State University has shown that white women, when ovulating, have more negative attitudes toward African American men.
+
+Thus the intensity of Us/Them-ing is being modulated by hormones
+
+math performance in Asian American women, built around the stereotypes of Asians being good at math, and women not. Half the subjects were primed to think of themselves as Asian before a math test; their scores improved. Half were primed about gender; scores declined. Moreover, levels of activity in cortical regions involved in math skills changed in parallel
+
+For high warmth, high competence (i.e., Us), there’s pride. Low warmth, high competence—envy. High warmth, low competence—pity. Low warmth, low competence—disgust.
+
+show them pictures of low-warmth/low-competence people, and there’s activation of the amygdala and insula but not of the fusiform face area or the (emotional) vmPFC—a profile evoked by viewing disgusting objects
+
+viewing low-warmth/high-competence or high-warmth/low-competence individuals activates the vmPFC.
+
+Between pride and envy is a desire to associate, to derive benefits from
+
