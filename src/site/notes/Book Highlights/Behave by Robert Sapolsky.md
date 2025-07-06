@@ -685,3 +685,127 @@ viewing low-warmth/high-competence or high-warmth/low-competence individuals act
 
 Between pride and envy is a desire to associate, to derive benefits from
 
+high-warmth/high-competence (HH)
+
+HH to HL - watching parent to go dementia
+HH to LH - business partner betrayal 
+HH to LL - rare, was successful but became homeless
+
+HL to LL - janitor who you use to greet everyday turned out to think you are a jerk
+
+LL to LH - Earlier Japan goods were considered as low grade plastic, but it changed to high quality after WW 2
+
+LL to HL - Someone went through struggle to return your lost wallet 
+
+LH to LL - Nigeria explored its oil reserves and changed its mentality of Britain as they will provide Britain aid with oil 
+
+## MANIPULATING THE EXTENT OF US/THEM-ING
+
+flash a picture of a hostile and/or aggressive face, and people are subsequently more likely to perceive a Them as the same
+
+perspective taking
+
+Changing the Rank Ordering of Us/Them Categories
+
+Contact
+
+# Hierarchy, Obedience, and Resistance
+
+hierarchies are about a type of relations within groups
+
+our automatic tendency to favor people close in rank to us over those who are distant
+
+## THE NATURE AND VARIETIES OF HIERARCHIES
+Hierarchies establish a status quo by ritualizing inequalities
+
+## RANK AND HIERARCHY IN HUMANS
+
+Dunbar’s number,” the predicted average group size in traditional human cultures. It’s 150 people, and there’s much evidence supporting that prediction.
+
+In other words, countries with more brutal socioeconomic hierarchies produce children who enforce their own hierarchies more brutally
+
+### Membership in Multiple Hierarchies
+### The Specialization of Some Ranking Systems
+### Internal Standards
+
+internal standards independent of the outside world
+
+## THE VIEW FROM THE TOP, THE VIEW FROM THE BOTTOM
+
+The vlPFC and dlPFC activate and become coupled when we figure out dominance relations or look at a dominant face, reflecting the combined affective and cognitive components to the process.
+
+### Your Brain and Your Own Status
+In macaque monkeys an increase in rank increases mesolimbic dopamine signaling.
+
+in lots of social species, attaining high rank is about sharp teeth and good fighting skills. But maintaining the high rank is about social intelligence and impulse control
+
+### Your Body and Your Own Status
+
+If status is maintained aggressively, testosterone fosters aggression; if status were maintained by writing beautiful, delicate haikus, testosterone would foster that.
+
+In general, low-ranking male baboons had elevated basal glucocorticoid levels
+
+in the context of hierarchy, some individuals who are number two care only that they’re not number one, and some individuals who are number nine gain comfort from at least not being number ten
+
+When something stressful did occur, their glucocorticoid stress response was relatively sluggish. When the stressor was over, their levels returned to that elevated baseline more slowly. In other words, too much of the stuff in the bloodstream when you don’t need it, and too little when you do.
+
+For the same high rank, an individual is likely to be less healthy if he (a) is particularly reactive to novelty; (b) sees threats in benign circumstances (e.g., his rival showing up and merely taking a nap nearby); (c) doesn’t take advantage of social control (e.g., letting a rival determine the start of an obvious showdown); (d) doesn’t differentiate between good and bad news (e.g., distinguishing behaviorally between winning and losing a fight); and/or (e) doesn’t have social outlets when frustrated.
+
+for the same low rank, an individual tends to be healthier if (a) he has lots of grooming relationships; and/or (b) there’s someone even lower ranking than him to serve as a target for displaced aggression
+
+### And Us
+
+social-dominance orientation (SDO), the measure of how much people value power and prestige
+
+empathy, and disgust at the circumstance that evoked the pain
+
+Higher SDO, low activation 
+
+To accrue the full physiological benefits of high status, don’t supervise people; instead, glide through the workplace like a master of the universe while minions whom you never interact with smile obsequiously. It’s not just rank; it’s what rank means and entails.
+
+the psychological stress of low SES is what decreases health.
+
+### A Really Odd Thing That We Do Now and Then
+
+Physical beauty is the sign of an interior beauty, a spiritual and moral beauty.
+
+## OH, WHY NOT TAKE THIS ONE ON? POLITICS AND POLITICAL ORIENTATIONS
+
+Machiavellian intelligence, also known as the "social brain hypothesis," refers to the idea that the complex social structures and cognitive abilities of humans, particularly primates, evolved due to intense social competition. It suggests that individuals developed strategies like deception, manipulation, and alliance formation to gain social and reproductive advantages
+
+### The Internal Consistency of Political Orientation
+
+conservatives start gut and stay gut; liberals go from gut to head
+
+increasing cognitive load* should make people more conservative
+
+Jonathan Haidt of NYU provides a very different view.38 He identifies six foundations of morality—care versus harm; fairness versus cheating; liberty versus oppression; loyalty versus betrayal; authority versus subversion; sanctity versus degradation
+
+liberals preferentially value the first three goals, namely care, fairness, and liberty
+
+In contrast, conservatives heavily value loyalty, authority, and sanctity
+
+Liberalism has been associated with larger amounts of gray matter in the cingulate cortex (with its involvement in empathy), whereas conservatism has been associated with an enlarged amygdala (with, of course, its starring role in threat perception).
+
+## CONFORMITY, DISOBEDIENCE AND NONCONFORMITY
+
+
+The depths of human conformity and obedience are shown by the speed with which they occur—it takes less than 200 milliseconds for your brain to register that the group has picked a different answer from yours, and less than 380 milliseconds for a profile of activation that predicts changing your opinion
+
+When we imitate someone’s actions, our mesolimbic dopamine system activates.* When we choose incorrectly in a task, the dopaminergic decline is less if we made the decision as part of a group than if we did so as an individual. Belonging is safety.
+
+people are more likely to change their answer if you show them a picture of the person(s) who disagrees with them
+
+in another study this process of conforming was also associated with activation of the occipital cortex, the brain region that does the primary processing of vision—you can almost hear the frontal and limbic parts of the brain trying to convince the occipital cortex that it saw something different from what it actually saw.
+
+In stressful settings rules gain power
+
+# Morality and Doing the Right Thing, Once You’ve Figured Out What That Is
+
+“When we make a decision regarding morality, is it mostly the outcome of moral reasoning or of moral intuition?”
+## THE PRIMACY OF REASONING IN MORAL DECISION MAKING
+
+temporoparietal junction (TPJ)
+
+the more the TPJ activation, the more people take intent into account when making moral judgments
+
