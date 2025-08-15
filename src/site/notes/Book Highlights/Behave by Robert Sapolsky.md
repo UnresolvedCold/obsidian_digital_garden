@@ -809,3 +809,110 @@ temporoparietal junction (TPJ)
 
 the more the TPJ activation, the more people take intent into account when making moral judgments
 
+we typically judge commission more harshly than omission
+
+we’re better at detecting violations of social contracts that have malevolent rather than benevolent consequences
+
+Haidt views moral decisions as primarily based on intuition and believes reasoning is what we then use to convince everyone, including ourselves, that we’re making sense.
+
+infants have the bias concerning commission versus omission.
+
+Killing someone intentionally as a means to save five feels intuitively wrong, but the intuition is strongest when the killing would occur right here, right now; doing it in more complicated sequences of intentionality doesn’t feel as bad.
+
+“intuitions discount heavily over space and time.”
+
+“when a sacrifice of one requires active, intentional, and local actions, more intuitive brain circuitry is engaged, and ends don’t justify means. And in circumstances where either the harm is unintentional or the intentionality plays out at a psychological distance, different neural circuitry predominates, producing an opposite conclusion about the morality of ends and means”
+
+“moral decision making can be wildly context dependent”
+
+“the child in danger in your hometown is far more of an Us than is this dying child far away”
+
+We use different brain circuits when contemplating our own moral failings (heavy activation of the vmPFC) versus those of others (more of the insula and dlPFC).
+
+we judge ourselves by our internal motives and everyone else by their external actions
+
+with cultures differing as to whether it is framed as “Do only things you’d want done to you” or “Don’t do things you wouldn’t want done to you”
+
+Antisocial punishment is when you punish another player for contributing more than you (i.e., being generous)
+
+the lower the social capital in a country, the higher the rates of antisocial punishment
+
+shame is external judgment by the group, while guilt is internal judgment of yourself
+
+## FOOLS RUSH IN: APPLYING THE FINDINGS OF THE SCIENCE OF MORALITY
+
+what is the optimal moral philosophy?
+
+Virtue ethics, with its emphasis on the actor, would answer: because you are a better person than that, because you’ll have to live with yourself afterward, etc.
+Deontology, with its emphasis on the act: because it’s not okay to steal.
+Consequentialism, with its emphasis on the outcome: what if everyone started acting that way, think about the impact on the person whose money you’ve stolen, etc.
+
+Doing the right thing is the easier thing.
+
+# Feeling Someone’s Pain, Understanding Someone’s Pain, Alleviating Someone’s Pain
+
+When does empathy lead us to actually do something helpful? When we do act, whose benefit is it for?
+
+## “FOR” VERSUS “AS IF” AND OTHER DISTINCTIONS
+
+There’s sensorimotor contagion—you see a hand poked with a needle, and the part of your sensory cortex that maps onto your hand activates, sensitizing you to the imagined sensation
+
+“sympathy” means you feel sorry for someone else’s pain without understanding it
+
+In contrast, “empathy” contains the cognitive component of understanding the cause of someone’s pain, taking his perspective, walking in his shoes.
+
+compassion,” where your resonance with someone’s distress leads you to actually help
+
+## EMOTIONALLY CONTAGIOUS, COMPASSIONATE ANIMALS
+
+## EMOTIONALLY CONTAGIOUS, COMPASSIONATE CHILDREN
+
+There’s the progression from feeling sorry for an individual (e.g., someone homeless) to feeling sorry for a category (e.g., “homeless people”).
+
+## AFFECT AND/OR COGNITION?
+
+When it comes to empathy, all neurobiological roads pass through the anterior cingulate cortex (ACC)
+
+What the ACC cares about is the meaning of the pain. Good news or bad, and of what nature?
+
+Insofar as the ACC cares about the meaning of pain, it’s just as concerned with the abstractions of social and emotional pain—social exclusion, anxiety, disgust, embarrassment—as with physical pain
+
+To quote Mother Teresa, “If I look at the mass, I will never act. If I look at the one, I will.”
+
+## A MYTHIC LEAP FORWARD
+
+PMC straddles the divide between thinking about and carrying out a movement.
+
+## THE CORE ISSUE: ACTUALLY DOING SOMETHING
+
+pathological altruism
+
+scenario of someone so consumed with the vicarious pain of a loved one that they endure and facilitate his dysfunction rather than administering tough love
+
+neither the larger amount of money nor the opportunity to spend it on oneself increased happiness
+
+only spending it on someone else did
+
+ACC—evolved to observe and learn from others’ pain for your own benefit
+
+Being charitable activated dopamine “reward” systems—when there was an observer present
+
+When no one was present, dopamine tended to flow most when subjects kept the money for themselves.
+
+# Metaphors We Kill By
+
+Symbols and the meaning we give them 
+
+# FEELING SOMEONE ELSE’S PAIN
+
+Disgust serves as an ethnic or out-group marker
+
+Literal cleanliness and orderliness can release us from abstract cognitive and affective distress—just consider how, during moments where life seems to be spiraling out of control, it can be calming to organize your clothes, clean the living room, get the car washed.
+
+## REAL VERSUS METAPHORICAL SENSATION
+
+# Biology, the Criminal Justice System, and (Oh, Why Not?) Free Will
+
+Priming people to think of God as punitive decreases cheating; thinking of God as forgiving increases it.
+
+However, frequently attending services at a mosque did. The author then polled Indian Hindus, Russian Orthodox adherents, Israeli Jews, Indonesian Muslims, British Protestants, and Mexican Catholics as to whether they’d die for their religion and whether people of other religions caused the world’s troubles. In all cases frequent attendance of religious services, but not frequent prayer, predicted those views. It’s not religiosity that stokes intergroup hostility; it’s being surrounded by coreligionists who affirm parochial identity, commitment, and shared loves and
