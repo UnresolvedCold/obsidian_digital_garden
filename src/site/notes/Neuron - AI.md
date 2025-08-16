@@ -236,4 +236,9 @@ Too many neuron may lead to over fitting.
 
 > 1 neuron means 1 non-linear decision
 
-You can you a single neuron to learn a line.
+You can use a single neuron to learn a line.
+
+# How to connect multiple neurons to create a neural network?
+
+## Layer
+A layer is a collection of neurons which receives the same input.
