@@ -92,9 +92,13 @@ You can create a simple AI workflow as follow.
    ![Screenshot 2025-08-23 at 3.59.49 PM.png](/img/user/assets/Screenshot%202025-08-23%20at%203.59.49%20PM.png)
    Now, your workflow will start looking something like this.
    ![Screenshot 2025-08-23 at 4.01.22 PM.png](/img/user/assets/Screenshot%202025-08-23%20at%204.01.22%20PM.png)
-5. Now you can run your workflow and it will connect to `deepseek` model and provide you responses. Simply say `Hi` to the model and here is how it runs like.
+5. You will need to add credentials to direct the Ollama instance. 
+   To do this go to Personal -> Credentials and add the below credential.
+   As the n8n instance is hosted using docker, and ollama is serving on localhost, we need to enter the internal docker url which points to the root localhost - `host.docker.internal`
+   ![Screenshot 2025-08-23 at 4.28.54 PM.png](/img/user/assets/Screenshot%202025-08-23%20at%204.28.54%20PM.png)
+6. Now you can run your workflow and it will connect to `deepseek` model and provide you responses. Simply say `Hi` to the model and here is how it runs like.
    ![Screenshot 2025-08-23 at 4.00.21 PM.png](/img/user/assets/Screenshot%202025-08-23%20at%204.00.21%20PM.png)
-6. The response, contains both the thinking part which is between `<think></think>` blocks and after this is the final output. 
+7. The response, contains both the thinking part which is between `<think></think>` blocks and after this is the final output. 
    ![Screenshot 2025-08-23 at 4.01.11 PM.png](/img/user/assets/Screenshot%202025-08-23%20at%204.01.11%20PM.png)
 
 Why am I getting a feel that this model is overthinking and I am feeling a bit afraid. I just said 'Hi' and it thought so many things based on my 'Hi'. 
