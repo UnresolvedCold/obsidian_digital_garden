@@ -188,5 +188,18 @@ This shows us the importance of using the correct distance metric, as the incorr
 
 A lot of research has been put and is going on for the correct measure of distance metric based on the problem at hand. 
 
+## Hybrid search 
+
+Vector DB also gives us power to use both vector similarity search and key based search. 
+
+There are 2 kinds of search and both are balanced using a scalar quantity called $\alpha$.
+In Weaviate, the final score is calculated as $\alpha$ times dense score + $1-\alpha$ times sparse score. 
+
+> The dense score is what similarity search gives us, the sparse score is given by key search.
+
+For key search, Weaviate uses [[BM25\|BM25]] relevance, which is like [[elastic search\|elastic search]].
+
+
+
 ## Related resources
 Docker Compose file and python script - https://github.com/UnresolvedCold/weaviate_learn
