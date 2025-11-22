@@ -345,12 +345,10 @@ jobs:
 
       - name: Build Jar  
         run: |  
-          cd workspace          
-          ./mvnw -B clean install -Pgithub-actions -DskipTests  
+	      ./mvnw clean install -DskipTests  
       - name: Run Pact Consumer Tests  
-        run: |  
-          cd workspace          
-          ./mvnw verify -pl multifleet-planner -am \            
+        run: |           
+          ./mvnw verify \            
           -Dsurefire.includes='**/*PactConsumer*.java'  
       - name: Publish Pact Interaction JSONs to Pact Broker  
         continue-on-error: true  
@@ -360,7 +358,7 @@ jobs:
           BROKER_PASSWORD: ${{ secrets.PACT_BROKER_WRITER }}  
         run: |  
           cd workspace          
-          pact_dir="multifleet-planner/target/pacts"  
+          pact_dir="target/pacts"  
           if compgen -G "$pact_dir/*.json" > /dev/null; then            
           echo "Publishing all pact files from $pact_dir"            
           pact-broker publish "$pact_dir" \              
@@ -379,7 +377,7 @@ jobs:
           BROKER_PASSWORD: ${{ secrets.PACT_BROKER_WRITER }}  
         run: |  
           cd workspace          
-          ./mvnw verify -pl multifleet-planner -am \           
+          ./mvnw verify[[]()]() \           
             -Dsurefire.includes='**/*PactProvider*.java' \           
 		    -Dpact.verifier.publishResults=true \           
 			-Dpact.pactbroker.httpclient.usePreemptiveAuthentication=true \      
